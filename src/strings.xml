@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Упражнение для таблицы умножения</string>
+    <string name="table_multiply">Таблица умножения</string>
+    <string name="paramRightBut">Введите число [2; 9] для "Выборочного умножения"</string>
+    <string name="leftBut">Упражнение для всех чисел</string>
+    <string name="rightBut">Упражнение выборочно</string>
+
+    <string name="randTest">Ответьте на вопрос #</string>
+    <string name="question">Здесь будет вопрос</string>
+    <string name="answer">Ответить</string>
+    <string name="true_answers">Кол-во верных ответов:</string>
+    <string name="false_answers">Кол-во неверных ответов:</string>
+</resources>
